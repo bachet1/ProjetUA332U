@@ -158,8 +158,8 @@ dir="ltr">
       <div class="navbar-inner">
         <div class="container">
           <div class="center-nav">
-            <form action="/login?next=%2Fnotebooks%2FVisualisationModelisationAlgorithmeRfProjet.ipynb" method="post" class="navbar-form pull-left">
-              <input type="hidden" name="_xsrf" value="2|e9c31da9|2f9b0afcb0d7197a8bfb6370c6a2bab7|1620333051"/>
+            <form action="/login?next=%2Ftree" method="post" class="navbar-form pull-left">
+              <input type="hidden" name="_xsrf" value="2|70418e52|b619990729558a811279f08b5f20294c|1620333051"/>
               
                 <label for="password_input"><strong>Password or token:</strong></label>
               
@@ -215,8 +215,8 @@ http://localhost:8888/?token=c8de56fa... :: /Users/you/notebooks
         <h3>Setup a Password</h3>
         <p> You can also setup a password by entering your token and a new password
         on the fields below:</p>
-        <form action="/login?next=%2Fnotebooks%2FVisualisationModelisationAlgorithmeRfProjet.ipynb" method="post" class="">
-                <input type="hidden" name="_xsrf" value="2|e9c31da9|2f9b0afcb0d7197a8bfb6370c6a2bab7|1620333051"/>
+        <form action="/login?next=%2Ftree" method="post" class="">
+                <input type="hidden" name="_xsrf" value="2|70418e52|b619990729558a811279f08b5f20294c|1620333051"/>
           <div class="form-group">
             <label for="token_input"><h4>Token</h4></label>
             <input type="password" name="password" id="token_input" class="form-control">
